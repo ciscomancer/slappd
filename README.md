@@ -1,13 +1,13 @@
-[![GoDoc](https://godoc.org/github.com/kpurdon/slappd?status.svg)](https://godoc.org/github.com/kpurdon/slappd)
-[![Go Report Card](https://goreportcard.com/badge/github.com/kpurdon/slappd)](https://goreportcard.com/report/github.com/kpurdon/slappd)
+[![GoDoc](https://godoc.org/github.com/ciscomancer/slappd?status.svg)](https://godoc.org/github.com/ciscomancer/slappd)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ciscomancer/slappd)](https://goreportcard.com/report/github.com/ciscomancern/slappd)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 **If you are interested in donating public hosting for this application it would be very easy to let anyone on slack use this with the click of a button. Right now I am running it on a private host for only a couple slack teams.**
 
-# Slappd (Slack Untappd)
+# Clappd (Cisco Webex Teams Untappd)
 
-A [Slack](https://slack.com/) [(Application)](https://api.slack.com/apps) for searching the [Untappd Beer Search API](https://untappd.com/api/docs#userbeers) for information about a given beer.
+A [Webex](https://webex.com/) [(Application)](https://apphub.webex.com) for searching the [Untappd Beer Search API](https://untappd.com/api/docs#userbeers) for information about a given beer based off the Slappd Slack app
 
 ![Slappd Preview GIF](examples/slappd.gif)
 
